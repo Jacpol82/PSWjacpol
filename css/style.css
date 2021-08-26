@@ -22,7 +22,7 @@ body{
 }
 
 h1{
-	background: #d65910;
+	background: #d87840;
 	color: #FFFFFF;
 	text-align: center;
 	border-radius: 20px;
@@ -48,12 +48,25 @@ h2{
 .autor{
 	text-align:center;
 }
- .footer{
-	background: #4ea1a5;
+
+table, tr, td {
+	text-align:left;
+	border: 1px solid white;
+	border-collapse:separate;
+	margin: 5px;
+}
+
+tr, td {
+	background-color: #d9f5c9;
+} 
+.footer{
+	background: #4e7ba5;
 	border-radius: 10px;
     border: solid;
 	color: #FFFFFF; 
     overflow:hidden;
 	text-align: center;
+    
+	
  }
  
