@@ -1,0 +1,59 @@
+
+
+#contenedor{
+    
+	margin: auto;
+	margin-top: 20px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+body{
+	background: #ffffff;
+}
+
+.logo{
+	font-size:60px;
+	color: #FFFFFF;
+	text-align:center;
+	background: #013149;
+	margin-top: 10px;
+	height: 100px;
+	border-radius: 20px;
+}
+
+h1{
+	background: #d65910;
+	color: #FFFFFF;
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 10px;
+	border: solid;
+	color: #013149;
+}
+
+
+h2{
+	text-align:center;
+}
+.tablas{
+	overflow:auto;
+	background: #ffffff;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	padding: 10px;
+	position:relative;
+	width: 100%;
+}
+
+.autor{
+	text-align:center;
+}
+ .footer{
+	background: #4ea1a5;
+	border-radius: 10px;
+    border: solid;
+	color: #FFFFFF; 
+    overflow:hidden;
+	text-align: center;
+ }
+ 
